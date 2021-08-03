@@ -27,7 +27,7 @@ iterL = filter(getBiggerThan20, lst)
 for i in iterL:
     print(i)
 
-
+    
 print("aaa")
 print("어느새 길어진")
 print("test")
